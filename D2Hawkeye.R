@@ -1,5 +1,5 @@
 # Read in the data
-Claims = read.csv("/Users/jaimegarcia/Desktop/DESKTOP_101/code/R_code/SMU/Classification_Tree/ClaimsData.csv")
+Claims = read.csv("ClaimsData.csv")
 str(Claims)
 
 # Percentage of patients in each cost bucket
